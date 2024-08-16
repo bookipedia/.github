@@ -87,6 +87,8 @@ To see Bookipedia in action, check out the following video demonstration:
   ```
 
 ## **Team**
+- **Project Manager**
+  - [Hoda Atya](https://github.com/hodaatya)
 
 - **AI Team**
   - [Yousef Rashad](https://github.com/yousefmrashad)
