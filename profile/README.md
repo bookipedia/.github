@@ -1,7 +1,5 @@
 <h1 align="center" style="font-weight: bold;">
-  <img src="https://github.com/user-attachments/assets/56e1ebac-3864-4771-82fd-ff42171623e8" alt="Logo" width="138" height="150" >
-
-  Bookipedia</h1>
+  <img src="https://github.com/user-attachments/assets/28d0d322-9a10-4db0-930f-bd019b2e5fc3" alt="Logo" width="180" height="233" ></h1>
 
 Welcome to the **Bookipedia** organization! This repository houses all the components of the Bookipedia project, an innovative AI-powered interactive reading platform and personalized cloud library designed to enhance your digital reading experience.
 
