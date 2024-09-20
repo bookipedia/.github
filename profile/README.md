@@ -5,7 +5,7 @@ Welcome to the **Bookipedia** organization! This repository houses all the compo
 
 ## **About Bookipedia**
 
-Bookipedia is a comprehensive AI-driven reading assistant that empowers users with intelligent features such as document conversion, summarization, text-to-speech, and a powerful question-and-answer system. Our mission is to revolutionize the way people engage with books and documents, making reading more interactive, insightful, and accessible.
+Bookipedia is a comprehensive reading platform with an AI-powered assistant that empowers users with intelligent features such as document conversion, summarization, text-to-speech, and a powerful question-and-answer system. Our mission is to revolutionize the way people engage with books and documents, making reading more interactive, insightful, and accessible.
 
 ### **Repositories**
 
