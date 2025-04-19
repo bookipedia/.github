@@ -9,16 +9,16 @@ Bookipedia is a comprehensive reading platform with an AI-powered assistant that
 
 ### **Repositories**
 
-1. **[AI](https://github.com/yousefmrashad/bookipedia)**
+1. **[AI](https://github.com/bookipedia/ai-server)**
    - Features **State-of-the-Art OCR** for document processing, **Retrieval-Augmented Generation (RAG)** for intelligent Q&A and insights, **Text-to-Speech** conversion, and more.
    - Utilizes LLMs, vector databases, and a variety of cutting-edge deep learning models and techniques to deliver advanced AI-driven functionalities.
 
-2. **[Backend](https://github.com/mhmadalaa/bookipedia)**
+2. **[Backend](https://github.com/bookipedia/backend)**
    - Developed using **Node.js**.
    - Provides robust backend services, including database management, API integration, and server-side logic.
    - Ensures secure and efficient data handling and supports the frontend and AI functionalities.
 
-3. **[Application](https://github.com/nadahossamismail/Bookipedia)**
+3. **[Application](https://github.com/bookipedia/application)**
    - Built with **Flutter** and **Dart**.
    - Key features include a PDF viewer, document upload, library management, AI chat for book insights, summarization, and text-to-speech.
    - Seamless integration with the backend and AI modules.
